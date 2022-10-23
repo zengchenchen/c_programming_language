@@ -5,3 +5,6 @@ cc atoi.c
 
 cc rand.c
 ./a.out
+
+cc strcat.c
+./a.out
